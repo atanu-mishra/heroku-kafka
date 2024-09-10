@@ -1,7 +1,7 @@
 # heroku-kafka-demo-java
 
 A simple heroku app that demonstrates using Kafka in java.
-This demo app accepts HTTP POST requests and writes them to a topic, and has a simple page that shows the last 10 messages produced to that topic.
+This demo app accepts HTTP POST requests and writes them to a topic, and has a simple page that shows the last 10 messages produced to that topic...
 
 You'll need to [provision](#provisioning) the app.
 
